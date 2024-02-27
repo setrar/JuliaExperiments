@@ -7,3 +7,5 @@ The 3 source files have been mimicked in a Notebook file:
 - [ ] [fluxnn.ipynb](fluxnn.ipynb)
 - [ ] [kernetfunction.ipynb](kernetfunction.ipynb)
 - [ ] [profilekf.ipynb](profilekf.ipynb)
+
+&#x1F516; Note: Packages have to be installed first before running `Jupyter lab`
