@@ -27,4 +27,12 @@ Julia packages:
 1 device:
 - Apple M2 (64.000 KiB allocated)
 
+julia> dev = MTLDevice(1)
+<AGXG14GDevice: 0x12e274600>
+    name = Apple M2
+
+julia> dev.name
+NSString("Apple M2")
 ```
+
+&#x1F516; Note: Observe the `NSString` type which comes from `ObjectiveC.jl` package also used by `Metal.jl`
