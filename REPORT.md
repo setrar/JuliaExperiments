@@ -36,3 +36,7 @@ NSString("Apple M2")
 ```
 
 &#x1F516; Note: Observe the `NSString` type which comes from `ObjectiveC.jl` package also used by `Metal.jl`
+
+# &#x1F4DA; References
+
+- [ ] [Technical preview: Programming Apple M1 GPUs in Julia with Metal.jl](https://juliagpu.org/post/2022-06-24-metal)
